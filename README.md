@@ -1,1 +1,8 @@
-quick and easy djando & bootstrap project
+-quick and easy django & bootstrap project
+
+#puneetraipuria.github.io
+
+## objective of this course is
+.use of django framework
+.use of bootstrap framework
+.simple MVP app
